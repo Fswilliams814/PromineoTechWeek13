@@ -1,0 +1,11 @@
+.border {
+    border-style: solid;
+    border-color: blue;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
