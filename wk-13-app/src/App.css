@@ -4,21 +4,28 @@ h3 {
   border-color: bisque;
   text-align: center;
   padding: .5pc;
+  color: whitesmoke;
 }
 
 #form {
-  width: 250px;
+  width: 300px;
   position: absolute;
   top: 30%;
   left: 50%;
-  margin-left: -125px;
+  margin-left: -150px;
 }
 
 #navBar {
   text-align: center;
-  
+  margin: auto;
+  padding: .5%;
+
 }
 
 body {
-  background-color: darkgray;
+ background-image: url("Fitness Zoom Virtual Background.jpg");
+}
+
+.h5 {
+  color: whitesmoke;
 }
